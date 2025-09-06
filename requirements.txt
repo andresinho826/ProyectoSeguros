@@ -1,0 +1,11 @@
+# Testing frameworks
+pytest==8.3.2
+pytest-bdd==7.1.2
+
+# Navegación web
+selenium==4.23.1
+webdriver-manager==4.0.2
+
+# Utilidades extra (opcional, pero recomendado)
+python-dotenv==1.0.1   # Manejo de variables de entorno (.env)
+requests==2.32.3       # Si necesitas probar APIs en paralelo
